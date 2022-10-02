@@ -1,7 +1,7 @@
 ### Undirected_Random_Graphs
 ------------------
 
-Investigating properties of undirected random graphs according to the Ardash-Rinier model.__
+Investigating properties of undirected random graphs according to the Ardash-Rinier model. <br />
 In the study, we checked the correctness of the following three features on the graphs:
 1. Connectivity.
 2. Diameter.
