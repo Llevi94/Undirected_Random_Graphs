@@ -2,7 +2,7 @@
 ------------------
 
 Investigating properties of undirected random graphs according to the Erdös-Renyi model. <br />
-In the study, we checked the correctness of the following three features on the graphs:
+The study checked the correctness of the following three features on the graphs:
 1. Connectivity.
 2. Diameter.
 3. An isolated vertex in a graph.
